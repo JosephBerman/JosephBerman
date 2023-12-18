@@ -1,8 +1,10 @@
-Hi!
+hi!
 
-I'm Joseph!
+i'm Joseph!
 
-I'm a Computer Engineering Major at Northeastern University and have an interest in FPGAs and Embedded Design.
+i have a bachlor's of science in computer engineering from northeastern university
+
+i'm currently wokring on my master's of science in eletrical and computer engineering with a concentration in computer systems and software
 
 [Check out my website to learn more](https://jberman.dev)
 

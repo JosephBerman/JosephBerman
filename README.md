@@ -1,10 +1,14 @@
-hi!
+Hi!
 
-i'm Joseph!
+I'm Joseph!
 
-i have a bachlor's of science in computer engineering from northeastern university
+I have a Master of Science in Computer Engineering with a concentration in Computer Systems and Software from Northeastern University.
 
-i'm currently wokring on my master's of science in eletrical and computer engineering with a concentration in computer systems and software
+Verilog and C are my favorite languages.
+
+My interest is seeing my code interact with the physical world. 
+
+Although most of my experience has been in robotics, I enjoy everything that bridges programming to life. 
 
 [Check out my website to learn more](https://jberman.dev)
 
